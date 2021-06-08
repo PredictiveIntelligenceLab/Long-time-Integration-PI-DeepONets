@@ -1,4 +1,4 @@
-# Long-time-Integration-PI-DeepONets
+# Long-time integration of parametric evolution equations with physics-informed DeepONets
 
 Code and data (available upon request) accompanying the manuscript titled "Long-time integration of parametric evolution equations with physics-informed DeepONets", authored by Sifan Wang, and Paris Perdikaris.
 

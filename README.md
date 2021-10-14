@@ -12,4 +12,4 @@ Partial differential equations (PDEs) play a paramount role in analyzing and sim
       author={Wang, Sifan and Perdikaris, Paris},
       journal={arXiv preprint arXiv:2106.05384},
       year={2021}
-    }
+      }
